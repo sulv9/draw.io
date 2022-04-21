@@ -1,1 +1,97 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T14:18:42.383Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="17.4.4" etag="mIBNFk2quHDyp1VkWmXx" type="github"><diagram id="bKbGP-L0lKE4CB_O0bGI">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-21T15:20:34.738Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="_V5g8-VXRBTVSfpjEion" version="17.4.4" type="github">
+  <diagram id="bKbGP-L0lKE4CB_O0bGI" name="Page-1">
+    <mxGraphModel dx="1153" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cXo8CrBXU-TgQ0G_cLDt-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cXo8CrBXU-TgQ0G_cLDt-1" target="cXo8CrBXU-TgQ0G_cLDt-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cXo8CrBXU-TgQ0G_cLDt-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cXo8CrBXU-TgQ0G_cLDt-1" target="cXo8CrBXU-TgQ0G_cLDt-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cXo8CrBXU-TgQ0G_cLDt-1" value="Work together for everyone&#39;s benefits" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2270" y="1130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cXo8CrBXU-TgQ0G_cLDt-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cXo8CrBXU-TgQ0G_cLDt-2" target="cXo8CrBXU-TgQ0G_cLDt-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cXo8CrBXU-TgQ0G_cLDt-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cXo8CrBXU-TgQ0G_cLDt-2" target="cXo8CrBXU-TgQ0G_cLDt-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cXo8CrBXU-TgQ0G_cLDt-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cXo8CrBXU-TgQ0G_cLDt-2" target="cXo8CrBXU-TgQ0G_cLDt-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cXo8CrBXU-TgQ0G_cLDt-2" value="Agree" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2130" y="1140" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cXo8CrBXU-TgQ0G_cLDt-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cXo8CrBXU-TgQ0G_cLDt-3" target="cXo8CrBXU-TgQ0G_cLDt-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cXo8CrBXU-TgQ0G_cLDt-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cXo8CrBXU-TgQ0G_cLDt-3" target="cXo8CrBXU-TgQ0G_cLDt-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cXo8CrBXU-TgQ0G_cLDt-3" value="Disagree" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2450" y="1140" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cXo8CrBXU-TgQ0G_cLDt-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cXo8CrBXU-TgQ0G_cLDt-6" target="cXo8CrBXU-TgQ0G_cLDt-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cXo8CrBXU-TgQ0G_cLDt-6" value="Self-improvement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2620" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cXo8CrBXU-TgQ0G_cLDt-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cXo8CrBXU-TgQ0G_cLDt-9" target="cXo8CrBXU-TgQ0G_cLDt-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cXo8CrBXU-TgQ0G_cLDt-9" value="Develop independence" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2830" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cXo8CrBXU-TgQ0G_cLDt-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="cXo8CrBXU-TgQ0G_cLDt-11" target="cXo8CrBXU-TgQ0G_cLDt-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cXo8CrBXU-TgQ0G_cLDt-11" value="High motivation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2830" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cXo8CrBXU-TgQ0G_cLDt-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cXo8CrBXU-TgQ0G_cLDt-15" target="cXo8CrBXU-TgQ0G_cLDt-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cXo8CrBXU-TgQ0G_cLDt-15" value="Improve efficiency" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="1097" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cXo8CrBXU-TgQ0G_cLDt-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cXo8CrBXU-TgQ0G_cLDt-17" target="cXo8CrBXU-TgQ0G_cLDt-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cXo8CrBXU-TgQ0G_cLDt-17" value="Reasonable division of work" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="1140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cXo8CrBXU-TgQ0G_cLDt-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cXo8CrBXU-TgQ0G_cLDt-20" target="cXo8CrBXU-TgQ0G_cLDt-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cXo8CrBXU-TgQ0G_cLDt-20" value="Make up the shortfall" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cXo8CrBXU-TgQ0G_cLDt-23" value="Resolve problems faster and more reliably" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="1097" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cXo8CrBXU-TgQ0G_cLDt-25" value="Solve problems independently" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3010" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cXo8CrBXU-TgQ0G_cLDt-27" value="Improve communication skills" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="1240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cXo8CrBXU-TgQ0G_cLDt-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cXo8CrBXU-TgQ0G_cLDt-30" target="cXo8CrBXU-TgQ0G_cLDt-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cXo8CrBXU-TgQ0G_cLDt-30" value="Atmosphere of tension and urgency" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2620" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cXo8CrBXU-TgQ0G_cLDt-36" value="&lt;h1&gt;Outline——Disagree&lt;/h1&gt;&lt;p&gt;1.&amp;nbsp; Competition can help to improve yourself.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;helps develop independence&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;help solve problems independently when facing problems&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; e.g. Sometimes when you are alone and there&#39;s no one to lean on, ability&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;of solving problems independently comes in handy.&lt;/p&gt;&lt;p&gt;2. Competition can help build an atmosphere of tension and urgency.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; bring high motivation&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2480" y="1300" width="490" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="cXo8CrBXU-TgQ0G_cLDt-37" value="&lt;h1&gt;Outline——Agree&lt;/h1&gt;&lt;p&gt;1. Working together can make up the shortfall.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;improve efficiency&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;Cooperation among team members can resolve problems faster&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;and more reliably.&lt;/p&gt;&lt;p&gt;2. Work together can divide the work wisely.&lt;/p&gt;&lt;p&gt;3. Work together can improve communication skills.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1870" y="1320" width="440" height="230" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
