@@ -1,1 +1,86 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T06:59:53.848Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="17.4.6" etag="Zq8N3ddAQ1DDMLvrou6R" type="github"><diagram id="RoQhElsdxWohcuKvtM0j">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-28T07:17:56.018Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="vEQCjiNYnP9KuMwOAHwy" version="17.4.6" type="github">
+  <diagram id="RoQhElsdxWohcuKvtM0j" name="Page-1">
+    <mxGraphModel dx="2214" dy="1206" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hhou6ddExpd1R7teAHIQ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="hhou6ddExpd1R7teAHIQ-1" target="hhou6ddExpd1R7teAHIQ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hhou6ddExpd1R7teAHIQ-1" value="开始稳定性测评" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="150" y="350" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="hhou6ddExpd1R7teAHIQ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="hhou6ddExpd1R7teAHIQ-2" target="hhou6ddExpd1R7teAHIQ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hhou6ddExpd1R7teAHIQ-2" value="跳转到相应的云手机/云游戏App" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="390" y="350" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="hhou6ddExpd1R7teAHIQ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="hhou6ddExpd1R7teAHIQ-6" target="hhou6ddExpd1R7teAHIQ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hhou6ddExpd1R7teAHIQ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="hhou6ddExpd1R7teAHIQ-6" target="hhou6ddExpd1R7teAHIQ-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="560" />
+              <mxPoint x="1755" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hhou6ddExpd1R7teAHIQ-6" value="是否找到指定的测评机型" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="630" y="312.5" width="160" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="hhou6ddExpd1R7teAHIQ-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="hhou6ddExpd1R7teAHIQ-9" target="hhou6ddExpd1R7teAHIQ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hhou6ddExpd1R7teAHIQ-9" value="自动点击屏幕固定坐标，进入云手机" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="900" y="350" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="hhou6ddExpd1R7teAHIQ-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="hhou6ddExpd1R7teAHIQ-10" target="hhou6ddExpd1R7teAHIQ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hhou6ddExpd1R7teAHIQ-10" value="自动点击返回键，退出云手机" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="350" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="hhou6ddExpd1R7teAHIQ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="hhou6ddExpd1R7teAHIQ-13" target="hhou6ddExpd1R7teAHIQ-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1500" y="230" />
+              <mxPoint x="985" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hhou6ddExpd1R7teAHIQ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="hhou6ddExpd1R7teAHIQ-13" target="hhou6ddExpd1R7teAHIQ-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hhou6ddExpd1R7teAHIQ-13" value="是否测评完指定次数？" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="307.5" width="160" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="hhou6ddExpd1R7teAHIQ-17" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1227.5" y="200" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hhou6ddExpd1R7teAHIQ-18" value="继续自动点击测评" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="230" width="175" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hhou6ddExpd1R7teAHIQ-19" value="结束测评，返回本机测评App" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="350" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="hhou6ddExpd1R7teAHIQ-21" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hhou6ddExpd1R7teAHIQ-23" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1215" y="530" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hhou6ddExpd1R7teAHIQ-24" value="结束测评" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1192.5" y="560" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hhou6ddExpd1R7teAHIQ-25" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="820" y="357" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hhou6ddExpd1R7teAHIQ-26" value="开始测评" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="805" y="385" width="90" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
